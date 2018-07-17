@@ -5,7 +5,7 @@ Summaries for breakthrough research in contemporary deep learning. Arranged in c
 ## Image Recognition
 
 1. [Going Deeper with Convolutions (Inception Networks)](./image_recognition_frameworks/inception_net.md)
-2. [Deep Residual Learning for Image Recognition (ResNets)](./image_recognition_frameworks/resnet.md)
+2. [Deep Residual Learning for Image Recognition (ResNets)](./image_recognition_frameworks/resnet/resnet.md)
 3. [Densely Connected Convolutional Networks (DenseNet)](https://arxiv.org/pdf/1608.06993.pdf)
 
 

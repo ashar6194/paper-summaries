@@ -9,4 +9,6 @@
 
 ## Main Contributions-
 1. Observed that stacking of more layers does not mean more accuracy (Lesser accuracy not necessarily due to overfitting!)
-2. Introduced residual skip connections. ![Building_block](./resnet_block.png)
+2. Introduced residual skip connections, which look as follows- <p align="center"> ![Building_block](resnet_block.png) <
+3.  Identity shortcuts are always used, except for the cases when there is a change in resolution, projection matrices are used (proven by experiments).
+4.  Even with deeper Bottleneck architectures (increased depth but reduced compute with 1x1 layers), the overall size remains less than the classic VGGs.
