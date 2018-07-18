@@ -8,7 +8,7 @@ Summaries for breakthrough research in contemporary deep learning. Arranged in c
 2. [Deep Residual Learning for Image Recognition (ResNets)](./image_recognition_frameworks/resnet/resnet.md)
 
 ## Object Detection
-1. [Mask R-CNN] (./object_detection/mask_rcnn/mask_rcnn.md)
+1. [Mask R-CNN](./object_detection/mask_rcnn/mask_rcnn.md)
 2. YOLO
 3. SSD
 
