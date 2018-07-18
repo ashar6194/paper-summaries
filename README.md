@@ -6,15 +6,13 @@ Summaries for breakthrough research in contemporary deep learning. Arranged in c
 
 1. [Going Deeper with Convolutions (Inception Networks)](./image_recognition_frameworks/inception_net/inception_net.md)
 2. [Deep Residual Learning for Image Recognition (ResNets)](./image_recognition_frameworks/resnet/resnet.md)
-3. [Densely Connected Convolutional Networks (DenseNet)](https://arxiv.org/pdf/1608.06993.pdf)
 
-
-More to come ---
 ## Object Detection
-1. Faster R-CNN
+1. [Mask R-CNN] (./object_detection/mask_rcnn/mask_rcnn.md)
 2. YOLO
 3. SSD
 
+More to come ---
 ## Semantic Segmentation
 1. Fully Convolutional Networks
 2. Segnet
