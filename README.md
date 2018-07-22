@@ -39,3 +39,7 @@ More to come ---
 ### 2D-3D
 1. DensePose
 2. A simple yet effective baseline for 3d human pose estimation
+
+## General Deep Learning Concepts
+1. [Update Methods for Network Optimization] (./Gradient_updates/optimizers.md)
+
