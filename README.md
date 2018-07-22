@@ -41,5 +41,5 @@ More to come ---
 2. A simple yet effective baseline for 3d human pose estimation
 
 ## General Deep Learning Concepts
-1. [Update Methods for Network Optimization] (./Gradient_updates/optimizers.md)
+1. [Update Methods for Network Optimization](./Gradient_updates/optimizers.md)
 

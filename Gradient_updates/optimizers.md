@@ -1,4 +1,4 @@
-#Network Optimizers Summary!
+# Network Optimizers Summary!
 
 
 ## Gradient descent-
